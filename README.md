@@ -1,2 +1,2 @@
 # stepik_selenium_courses
-Selenium study courses at stepik.org on python
+Некоторые задания из курса по автоматизации тестирования
